@@ -11,5 +11,7 @@
     "postcss": "^8.3.6",
     "tailwindcss": "^2.2.7",
     "vite": "^2.4.3"
-  }
+  },
+  "keywords": [],
+  "description": ""
 }
